@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//https://www.spoj.com/RGB7/problems/RGB7005/
 int main(){
 	int y,x;
 	scanf("%d",&x);
